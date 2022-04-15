@@ -7,4 +7,3 @@ ThienPhuoc1002/ThienPhuoc1002 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 <!-- - 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on ... -->
---->
