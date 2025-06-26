@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ho Thien Phuoc
-- 👀 I’m interested in Fresher Ruby on Rails, PHP Laravel.
+- 👀 I’m interested in Middle Ruby on Rails, PHP Laravel.
 - 📫 How to reach me: thienphuocho1002@gmail.com
 
 <!---
